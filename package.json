@@ -1,0 +1,28 @@
+{
+  "name": "mongonow",
+  "version": "1.0.0",
+  "description": "Allows you to start using MongoDB commands right away, outside the connection callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelauderer/mongonow.git"
+  },
+  "keywords": [
+    "mongodb",
+    "sync",
+    "async",
+    "node"
+  ],
+  "author": "Michael Auderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelauderer/mongonow/issues"
+  },
+  "homepage": "https://github.com/michaelauderer/mongonow#readme",
+  "dependencies": {
+    "mongodb": "^3.1.0"
+  }
+}
