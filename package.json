@@ -1,6 +1,6 @@
 {
   "name": "mongonow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to start using MongoDB commands right away, outside the connection callback",
   "main": "index.js",
   "scripts": {
